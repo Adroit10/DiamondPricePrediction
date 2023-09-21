@@ -3,5 +3,5 @@ numpy
 seaborn
 matplotlib
 flask
-sklearn
+scikit-learn
 #-e .
